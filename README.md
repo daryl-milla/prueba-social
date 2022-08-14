@@ -4,5 +4,5 @@ Esta es una solución al [desafío de la sección de prueba social en Frontend M
 
 ### Enlaces
 
-- URL de la solución: [Agregue la URL de la solución aquí] (https://your-solution-url.com)
-- URL del sitio en vivo: [Agregue la URL del sitio en vivo aquí] (https://your-live-site-url.com)
+- URL de la solución: https://github.com/daryl-milla/prueba-social
+- URL del sitio en vivo: https://github.com/daryl-milla/prueba-social
